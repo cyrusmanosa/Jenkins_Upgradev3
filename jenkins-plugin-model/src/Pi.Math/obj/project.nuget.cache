@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8HK6gnu6lOU=",
+  "success": true,
+  "projectFilePath": "/Users/cyrusman/Desktop/ProgrammingLearning/Udemy/Jenkins_Upgradev3/jenkins-plugin-model/src/Pi.Math/Pi.Math.csproj",
+  "expectedPackageFiles": [
+    "/Users/cyrusman/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/cyrusman/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/cyrusman/.nuget/packages/prometheus-net/3.4.0/prometheus-net.3.4.0.nupkg.sha512",
+    "/Users/cyrusman/.nuget/packages/system.valuetuple/4.5.0/system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

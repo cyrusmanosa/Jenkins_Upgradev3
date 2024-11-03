@@ -1,0 +1,220 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/cyrusman/Desktop/ProgrammingLearning/Udemy/Jenkins_Upgradev3/jenkins-plugin-model/src/Pi.Web/Pi.Web.csproj": {}
+  },
+  "projects": {
+    "/Users/cyrusman/Desktop/ProgrammingLearning/Udemy/Jenkins_Upgradev3/jenkins-plugin-model/src/Pi.Math/Pi.Math.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/cyrusman/Desktop/ProgrammingLearning/Udemy/Jenkins_Upgradev3/jenkins-plugin-model/src/Pi.Math/Pi.Math.csproj",
+        "projectName": "Pi.Math",
+        "projectPath": "/Users/cyrusman/Desktop/ProgrammingLearning/Udemy/Jenkins_Upgradev3/jenkins-plugin-model/src/Pi.Math/Pi.Math.csproj",
+        "packagesPath": "/Users/cyrusman/.nuget/packages/",
+        "outputPath": "/Users/cyrusman/Desktop/ProgrammingLearning/Udemy/Jenkins_Upgradev3/jenkins-plugin-model/src/Pi.Math/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/cyrusman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "prometheus-net": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/cyrusman/Desktop/ProgrammingLearning/Udemy/Jenkins_Upgradev3/jenkins-plugin-model/src/Pi.Runtime/Pi.Runtime.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/cyrusman/Desktop/ProgrammingLearning/Udemy/Jenkins_Upgradev3/jenkins-plugin-model/src/Pi.Runtime/Pi.Runtime.csproj",
+        "projectName": "Pi.Runtime",
+        "projectPath": "/Users/cyrusman/Desktop/ProgrammingLearning/Udemy/Jenkins_Upgradev3/jenkins-plugin-model/src/Pi.Runtime/Pi.Runtime.csproj",
+        "packagesPath": "/Users/cyrusman/.nuget/packages/",
+        "outputPath": "/Users/cyrusman/Desktop/ProgrammingLearning/Udemy/Jenkins_Upgradev3/jenkins-plugin-model/src/Pi.Runtime/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/cyrusman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "PowerArgs": {
+              "target": "Package",
+              "version": "[3.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/cyrusman/Desktop/ProgrammingLearning/Udemy/Jenkins_Upgradev3/jenkins-plugin-model/src/Pi.Web/Pi.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/cyrusman/Desktop/ProgrammingLearning/Udemy/Jenkins_Upgradev3/jenkins-plugin-model/src/Pi.Web/Pi.Web.csproj",
+        "projectName": "Pi.Web",
+        "projectPath": "/Users/cyrusman/Desktop/ProgrammingLearning/Udemy/Jenkins_Upgradev3/jenkins-plugin-model/src/Pi.Web/Pi.Web.csproj",
+        "packagesPath": "/Users/cyrusman/.nuget/packages/",
+        "outputPath": "/Users/cyrusman/Desktop/ProgrammingLearning/Udemy/Jenkins_Upgradev3/jenkins-plugin-model/src/Pi.Web/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/cyrusman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/cyrusman/Desktop/ProgrammingLearning/Udemy/Jenkins_Upgradev3/jenkins-plugin-model/src/Pi.Math/Pi.Math.csproj": {
+                "projectPath": "/Users/cyrusman/Desktop/ProgrammingLearning/Udemy/Jenkins_Upgradev3/jenkins-plugin-model/src/Pi.Math/Pi.Math.csproj"
+              },
+              "/Users/cyrusman/Desktop/ProgrammingLearning/Udemy/Jenkins_Upgradev3/jenkins-plugin-model/src/Pi.Runtime/Pi.Runtime.csproj": {
+                "projectPath": "/Users/cyrusman/Desktop/ProgrammingLearning/Udemy/Jenkins_Upgradev3/jenkins-plugin-model/src/Pi.Runtime/Pi.Runtime.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "PowerArgs": {
+              "target": "Package",
+              "version": "[3.6.0, )"
+            },
+            "prometheus-net": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            },
+            "prometheus-net.AspNetCore": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
