@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pi.Math")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d90bd33dd53e37b535e9047390ffee3a20958bfd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e990d8208e439878213c1c16ec4e24ed4ba6bd5e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pi.Math")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pi.Math")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,32 +1,28 @@
-# Hello World Plugin Demo
+<!-- # Hello World Plugin Demo -->
 Build a simple "Hello, World" plugin using a template.
 
 
-# Install Java and Maven 
+<!-- # Install Java and Maven  -->
 -- Java is Already Installed
 
-
-## Install Maven
+<!-- ## Install Maven -->
 Download Maven Tar from https://maven.apache.org/download.cgi
 Unzip tar - tar -xvzf <file_name>
-move to /opt -- mv apache-maven****** /opt/
+move to /opt -- mv apache-maven-3.9.9 /opt/
 
-
-# Add the following lines to the user profile file (.profile).
-M2_HOME='/opt/apache-maven-******' /opt/apache-maven-3.9.4
+<!-- # Add the following lines to the user profile file (.profile). -->
+M2_HOME='/opt/apache-maven-3.9.9' /opt/apache-maven-3.9.9
 PATH="$M2_HOME/bin:$PATH"
 export PATH
 
 Relaunch the terminal or execute source .profile to apply the changes.
 Execute mvn -version command
 
-
-# Create a local folder for the source code:
+<!-- # Create a local folder for the source code: -->
 mkdir -p hello-world
 cd hello-world
 
-
-# Create a plugin from the Jenkins templates:
+<!-- # Create a plugin from the Jenkins templates: -->
 mvn -U archetype:generate -Dfilter="io.jenkins.archetypes:"
 
 mvn verify

@@ -17,6 +17,8 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = /Users/cyrusman/Desktop/ProgrammingLearning/Udemy/Jenkins_Upgradev3/jenkins-plugin-model/src/Pi.Web
 build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
 
 [/Users/cyrusman/Desktop/ProgrammingLearning/Udemy/Jenkins_Upgradev3/jenkins-plugin-model/src/Pi.Web/Views/Pi/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGkvSW5kZXguY3NodG1s
